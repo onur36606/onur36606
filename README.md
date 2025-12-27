@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**onur36606/onur36606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I am Onur Kılıç 👋
 
-Here are some ideas to get you started:
+I build projects in my free time for learning
+I am interested in robotics, embedded systems and artificial intelligence  
+I focus on building practical projects and developing strong technical foundations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Areas of Interest
+- Robotics and automation  
+- Embedded systems and electronics  
+- Artificial intelligence, data-driven modeling 
+- Software development  
+
+## 🚀 Currently Working On
+- Robotic systems using servo motors  
+- Embedded programming with microcontrollers   
+
+## 🛠️ Technologies
+- **Languages:** Python, C++, GDScript
+- **Hardware:** Microcontrollers, sensors, actuators  
+- **Tools:** GitHub, VS Code  
+
+## 🧠 Approach
+I value hands-on learning and problem-oriented thinking
+My goal is to design efficient, reliable and well-documented systems
