@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# I am Onur Kılıç 👋
+# I am Onur 👋
 
 I build projects in my free time for learning
 I am interested in robotics, embedded systems and artificial intelligence  
