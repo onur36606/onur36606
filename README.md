@@ -2,7 +2,7 @@
 
 # I am Onur 👋
 
-I build projects in my free time for learning  
+I build projects in my free time for learning and fun  
 I am interested in robotics, embedded systems and artificial intelligence  
 I focus on building practical projects and developing strong technical foundations
 
